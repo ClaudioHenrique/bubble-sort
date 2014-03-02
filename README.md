@@ -1,4 +1,4 @@
 BubbleSort
 ==========
 
-Implementação em C do método de ordenação BubbleSort.
+Método de ordenação BubbleSort implementado em C aplicado a números inteiros.

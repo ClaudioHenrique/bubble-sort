@@ -1,4 +1,4 @@
-<h2>BubbleSort</h2>
+<h2>BubbleSort em C</h2>
 
 Método de ordenação BubbleSort implementado em C aplicado a números inteiros.
 

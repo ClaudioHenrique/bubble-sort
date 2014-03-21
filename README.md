@@ -20,8 +20,8 @@ Em seguida, é aplicado o algoritmo de ordenação <i>BubbleSort</i> e, então, 
 <h2>Contatos</h2>
 
 <p>
-Dúvidas, sugestões, elogíos, críticas, ... Por favor, entrar em contato através dos e-mails: <br />
-<a href="mailto:djalmo.cruz@gmail.com">djalmo.cuz@gmail.com</a> ou <a href="mailto:djalmo.cruz@hotmail.com">djalmo.cuz@hotmail.com;</a>
+Dúvidas, sugestões, elogíos, críticas, ... Por favor, entrar em contato através do e-mail: <br />
+<a href="mailto:djalmo.cruz@gmail.com">djalmo.cuz@gmail.com</a>
+<a href="mailto:claudiohenriquedev@gmail.com">claudiohenriquedev@gmail.com</a>
 </p>
 
-<p>vlw.</p>
